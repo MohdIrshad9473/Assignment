@@ -19,7 +19,7 @@ function App() {
    <div className="body1">  
    <Listbutton/>
    <Switch>
-                <Route exact path='/list1' component={List1}></Route>
+                <Route exact path='/' component={List1}></Route>
                 <Route exact path='/list2' component={List2}></Route>
                 <Redirect to="/" />
    </Switch>
