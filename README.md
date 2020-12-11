@@ -1,4 +1,6 @@
- ### Assignmnet
+demo : https://irshadassignment.herokuapp.com/
+
+### Assignmnet
  
  # Web applictaion 
  
@@ -9,6 +11,10 @@
  Dscription:
     front end will get data using rest api and it will be displayed on WEB.
     deleted will be also implmented using REST API - delete method to delete record.
+    
+ 
+demo is hosted on heroku.
+https://irshadassignment.herokuapp.com/
     
    
  
